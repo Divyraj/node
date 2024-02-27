@@ -1,5 +1,5 @@
 # Security
-
+AAha!
 ## Reporting a bug in Node.js
 
 Report security bugs in Node.js via [HackerOne](https://hackerone.com/nodejs).
